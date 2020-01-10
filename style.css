@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(240, 230, 255);
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(157, 201, 252);
+}
+li{
+    float: left;
+}
+li a{
+    display: block;
+    color: purple;
+    text-align: center;
+    padding: 16px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: rgb(255, 201, 231);
+}
+.h1{
+     font-family: 'Amatic SC', cursive;
+    font-size: 33px;
+    color: rgb(255, 132, 0);
+}
+.one{
+    font-family: 'Amatic SC', cursive;
+    font-size: 33px;
+    color: rgb(0, 68, 255);
+}
+.two{
+    font-family: 'Amatic SC', cursive;
+    font-size: 33px;
+    color: rgb(136, 0, 255);
+}
+.three{
+    font-family: 'Amatic SC', cursive;
+    font-size: 33px;
+    color: rgb(87, 235, 19);
+}
+h3{
+    color: rgb(202, 178, 237);
+}
+h4{
+    color: rgb(202, 178, 237);
+}
+h1{
+    font-family: 'Amatic SC', cursive;
+}
+p{    
+    font-family: 'Courier Prime', monospace;
+}
